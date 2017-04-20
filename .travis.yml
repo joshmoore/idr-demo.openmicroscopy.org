@@ -5,7 +5,7 @@ services:
   - docker
 
 install:
-    - gem install jekyll html-proofer jekyll-sanity-checker link-checker
+    - gem install jekyll html-proofer # jekyll-sanity-checker link-checker
 
 script:
   - bash test.sh
