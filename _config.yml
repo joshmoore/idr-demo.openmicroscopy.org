@@ -20,3 +20,4 @@ github_username:  IDR
 # Build settings
 markdown: kramdown
 baseurl: /idr-demo.openmicroscopy.org
+gems: ["jekyll-sanity-checker"]
